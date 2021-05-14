@@ -6,4 +6,4 @@
 
 The Munros Of Scotland Map 
 
-[Link](url) and ![Image](munrosofscotland.jpg)
+[Link](munrosofscotland.jpg) and ![Image](munrosofscotland.jpg)
